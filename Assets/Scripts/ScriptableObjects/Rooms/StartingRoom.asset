@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37c435077df7f4a9ba2b161fa60e3a7a, type: 3}
   m_Name: StartingRoom
   m_EditorClassIdentifier: 
-  description: 'You just entered into a dungeon. Suddenly the entry is closed and
-
-    you
-    start hearing weird voice'
+  description: You just entered into a dungeon. Suddenly the entry closed itself
+    and you start hearing weird voice
   roomName: starting room
